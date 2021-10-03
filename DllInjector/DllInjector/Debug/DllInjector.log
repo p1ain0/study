@@ -1,0 +1,3 @@
+﻿  DllInjector.cpp
+C:\Users\df\Desktop\DllInjector\DllInjector\DllInjector.cpp(92,1): warning C4326: “wmain”的返回类型应为“int”而非“void”
+  DllInjector.vcxproj -> C:\Users\df\Desktop\DllInjector\Debug\DllInjector.exe
